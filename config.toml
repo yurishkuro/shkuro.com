@@ -65,7 +65,7 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]]
 name = "Blog"
 weight = 2
-url = "https://medium.com/@yurishkuro"
+url = "/blog/"
 
 #[[menu.main]]
 #name = "Projects"
