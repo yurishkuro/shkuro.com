@@ -1,4 +1,5 @@
-baseURL = "https://shkuro.com/"
+#baseURL = "https://shkuro.com/"
+baseURL = "/"
 title = "Yuri Shkuro"
 
 languageCode = "en-us"
