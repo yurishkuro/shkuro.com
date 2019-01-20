@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo"
+command = "hugo --baseURL $URL"
 
 [context.deploy-preview]
 publish = "public"
