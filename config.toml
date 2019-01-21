@@ -1,5 +1,6 @@
 # baseURL = "http://www.shkuro.com/"
 title = "Yuri Shkuro"
+googleAnalytics = "UA-38157931-4"
 
 languageCode = "en-us"
 theme = "hugo-coder"
