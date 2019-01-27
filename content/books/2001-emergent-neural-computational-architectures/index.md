@@ -1,6 +1,6 @@
 ---
 title: "Emergent Neural Computational Architectures Based on Neuroscience"
-date: 2001-03-11T16:37:25-05:00
+date: 2001-08-24T16:37:25-05:00
 draft: false
 ---
 
