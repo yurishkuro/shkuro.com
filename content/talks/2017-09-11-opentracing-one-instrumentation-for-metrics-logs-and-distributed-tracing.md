@@ -4,7 +4,6 @@ date: 2017-09-11T20:52:52-05:00
 draft: true
 ---
 
-
 **Event**: [Open Source Summit NA 2017](https://ossna2017.sched.com/event/Boku/opentracing-one-instrumentation-for-metrics-logs-and-distributed-tracing-juraci-paixao-krohling-red-hat-yuri-shkuro-uber)
 
 **Date**: September 11, 2017

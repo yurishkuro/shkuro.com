@@ -13,3 +13,5 @@ draft: false
 **Video**: [YouTube](https://youtu.be/1NDq86kbvbU)
 
 **Slides**: [SpeakerDeck](https://speakerdeck.com/yurishkuro/distributed-tracing-at-uber-scale)
+
+Understanding how your microservices-based application is executing in a highly distributed and elastic cloud environment can be complicated. Distributed tracing has emerged as an invaluable technique that succeeds where traditional monitoring tools falter. Yet deploying it can be quite challenging, especially in the large scale, polyglot environments of modern companies that mix together many different technologies. In this talk I share what we’ve learned while building and rolling out Jaeger, our open source, OpenTracing-native distributed tracing system, to hundreds of microservices at Uber. I showcase new and exciting features that make it even more valuable to engineers.

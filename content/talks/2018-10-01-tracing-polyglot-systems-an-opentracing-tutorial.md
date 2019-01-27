@@ -12,4 +12,4 @@ draft: false
 
 **Slides**: [PDF](https://cdn.oreillystatic.com/en/assets/1/event/275/Tracing%20polyglot%20systems_%20An%20OpenTracing%20tutorial%20Presentation.pdf)
 
-This is a tutorial 
+This is a step-by-step tutorial on instrumenting a simple application for distributed tracing using the OpenTracing API and Jaeger as the tracing backend. It covers the fundamental principles of instrumentation for in-process and inter-process context propagation and capturing executing call graph and event causality in distributed traces.

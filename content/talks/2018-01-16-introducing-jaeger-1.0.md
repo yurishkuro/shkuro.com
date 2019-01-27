@@ -12,4 +12,4 @@ draft: false
 
 **Video**: [YouTube](https://youtu.be/qT_1MI58tLk)
 
-Most of this webinar is a live demo of Jaeger.
+Most of this webinar is a live demo of Jaeger functionality, as well as its architecture.
