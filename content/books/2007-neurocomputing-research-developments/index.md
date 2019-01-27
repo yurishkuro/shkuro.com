@@ -10,4 +10,4 @@ draft: false
 
 I co-authored one of the chapters of this book: Chapter 1 - Simulated Evolution of Cerebral Hemisphere Asymmetries and Emergent Lateralization, pp. 1-38, by Alexander Grushin, Yuri Shkuro, James A. Reggia.
 
-Amusing fact: I keep seeing it selling for over $200 on [Amazon](https://smile.amazon.com/gp/product/1600219314/).
+Amusing fact: I keep seeing it selling for over $200 on [Amazon](https://www.amazon.com/gp/product/1600219314/).
