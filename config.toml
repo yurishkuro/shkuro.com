@@ -35,7 +35,7 @@ disqusShortname = "yourdiscussshortname"
     inverted = false
 
     # Custom CSS
-    custom_css = []
+    custom_css = ["css/figures.css"]
 
 [[params.social]]
     name = "GitHub"
@@ -68,12 +68,12 @@ name = "Blog"
 weight = 2
 url = "/blog/"
 
-#[[menu.main]]
-#name = "Projects"
-#weight = 3
-#url = "/projects/"
+[[menu.main]]
+name = "Books"
+weight = 3
+url = "/books/"
 
-#[[menu.main]]
-#name = "Contact me"
-#weight = 5
-#url = "/contact/"
+[[menu.main]]
+name = "Talks"
+weight = 5
+url = "/talks/"
