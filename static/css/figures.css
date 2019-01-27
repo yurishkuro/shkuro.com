@@ -1,0 +1,7 @@
+figure.floatright {
+	max-width: 30%;
+	width: auto\9*0.3; /* ie8 */
+	height: auto;
+    float: right;
+    margin: 0 0 0 50px;
+}
