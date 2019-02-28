@@ -6,9 +6,10 @@ draft: false
 
 {{% figure src="./cover-v2.png" class="floatright" %}}
 
-**Publisher**: Packt Publishing (February, 2019)
+  * **Publisher**: Packt Publishing (February, 2019)
+  * **Illustration by**: [Lev Polyakov](https://polyakovproductions.com/)
+  * **Source code for examples**: [on GitHub](https://github.com/PacktPublishing/Mastering-Distributed-Tracing/)
 
-**Illustration by**: [Lev Polyakov](https://polyakovproductions.com/)
 
 Aavailable for purchase at [PacktPub.com](https://packtpub.com/networking-and-servers/mastering-distributed-tracing) and for
 pre-order at [Amazon](https://www.amazon.com/gp/product/B07MBNGF7Q/ref=dbs_a_def_rwt_bibl_vppi_i1) (release date March 11, 2019).
