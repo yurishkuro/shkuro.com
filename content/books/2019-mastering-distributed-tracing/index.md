@@ -12,7 +12,7 @@ draft: false
 
 
 Aavailable for purchase at [PacktPub.com](https://packtpub.com/networking-and-servers/mastering-distributed-tracing) and for
-pre-order at [Amazon](https://www.amazon.com/gp/product/B07MBNGF7Q/ref=dbs_a_def_rwt_bibl_vppi_i1) (release date March 11, 2019).
+pre-order at [Amazon](https://www.amazon.com/dp/1788628462) (release date March 11, 2019).
 
 This book is based on my 3+ years of experience with building, deploying, and operating [Jaeger](https://www.jaegertracing.io), an open-source distributed tracing platform at [Uber Technologies, Inc.](https://eng.uber.com/distributed-tracing/), and my involvement with the standardization efforts, such as the [OpenTracing](https://opentracing.io) project and the [W3C Distributed Tracing Working Group](https://www.w3.org/2018/distributed-tracing/). It is a practical guide to distributed tracing, offering end-to-end (get it?) coverage of the field. 
 
