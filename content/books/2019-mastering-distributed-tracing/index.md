@@ -22,3 +22,24 @@ When you read this book you will:
   * Solve the data gathering problem through manual and automatic code instrumentation, with open standards like OpenTracing, W3C Trace Context, and OpenCensus; 
   * Consider the benefits and applications of a distributed tracing infrastructure for understanding and profiling complex systems;
   * Learn how to deploy and operate a distributed tracing platform at scale.
+
+Table of content:
+
+  * Part I: Introduction
+    * Chapter 1: Why Distributed Tracing
+    * Chapter 2: Taking Tracing for a HotROD ride
+    * Chapter 3: Distributed Tracing Fundamentals
+  * Part II: Data Gathering Problem
+    * Chapter 4: Instrumentation Basics with OpenTracing
+    * Chapter 5: Instrumentation of Asynchronous Applications
+    * Chapter 6: Tracing Standards and Ecosystem
+    * Chapter 7: Tracing with Service Mesh
+    * Chapter 8: All About Sampling
+  * Part III: Getting Value from Tracing
+    * Chapter 9: Turning the Lights On
+    * Chapter 10: Distributed Context Propagation
+    * Chapter 11: Integration with Metrics and Logs
+    * Chapter 12: Gathering Insights Through Data Mining
+  * Part IV: Deploying and Operating Tracing Infrastructure
+    * Chapter 13: Implementing tracing in large organizations
+    * Chapter 14: Under the Hood of a Distributed Tracing System
