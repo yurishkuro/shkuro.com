@@ -11,8 +11,7 @@ draft: false
   * **Source code for examples**: [on GitHub](https://github.com/PacktPublishing/Mastering-Distributed-Tracing/)
 
 
-Aavailable for purchase at [PacktPub.com](https://packtpub.com/networking-and-servers/mastering-distributed-tracing) and
-at [Amazon.com](https://amzn.to/2SBzQ69).
+Available for purchase at [PacktPub.com](https://packtpub.com/networking-and-servers/mastering-distributed-tracing) and at [Amazon.com](https://amzn.to/2SKXvkC).
 
 This book is based on my 3+ years of experience with building, deploying, and operating [Jaeger](https://www.jaegertracing.io), an open-source distributed tracing platform at [Uber Technologies, Inc.](https://eng.uber.com/distributed-tracing/), and my involvement with the standardization efforts, such as the [OpenTracing](https://opentracing.io) project and the [W3C Distributed Tracing Working Group](https://www.w3.org/2018/distributed-tracing/). It is a practical guide to distributed tracing, offering end-to-end (get it?) coverage of the field. 
 
@@ -23,7 +22,7 @@ When you read this book you will:
   * Consider the benefits and applications of a distributed tracing infrastructure for understanding and profiling complex systems;
   * Learn how to deploy and operate a distributed tracing platform at scale.
 
-Table of content:
+Table of contents:
 
   * Part I: Introduction
     * Chapter 1: Why Distributed Tracing
