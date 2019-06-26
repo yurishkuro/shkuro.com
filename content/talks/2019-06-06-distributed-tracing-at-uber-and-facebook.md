@@ -11,4 +11,6 @@ draft: false
 
 **Speakers**: Michael Bevilacqua-Linn & Yuri Shkuro
 
+**Video**: https://atscaleconference.com/videos/systems-scale-2019-observability-infra-uber-and-facebook/
+
 Uber and Facebook both operate large scale distributed tracing systems, but with a different focus. Uber’s open-source [Jaeger](https://jaegertracing.io) is used primarily understand the complex behaviors of their vast microservices architecture, analyse failures during outages, and accelerate root cause analysis. Facebook has largely used their tracing system, Canopy, for performance and efficiency analysis. In this talk Michael and I describe each approach and show how distributed tracing helps to scale both the infrastructure and the engineering organization.
