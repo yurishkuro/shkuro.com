@@ -16,12 +16,12 @@
             <a class="title" href="{{ .URL }}">{{ .Title }}</a>
         </div>
         <div>
-            <span class="date"></span>
+            <span class="date">&nbsp;</span>
             <span class="event-name">{{ .Params.Venue }}</span>
         </div>
         {{ if (or ( isset .Params "video" ) ( isset .Params "slides" )) }}
         <div>
-            <span class="date"></span>
+            <span class="date">&nbsp;</span>
             {{ if .Params.Video }}
                 <span class="event-video">[<a href="{{ .Params.Video }}" target="_blank">video</a>]</span>
             {{ end }}
