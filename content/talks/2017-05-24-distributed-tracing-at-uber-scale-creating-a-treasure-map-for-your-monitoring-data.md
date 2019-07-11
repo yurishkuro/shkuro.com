@@ -2,9 +2,10 @@
 title: "Tracing at Uber Scale: Creating a Treasure Map for your Monitoring Data"
 date: 2017-05-24T21:04:28-05:00
 draft: false
+venue: Monitorama PDX 2017
 ---
 
-**Event**: [Monitorama PDx 2017](http://monitorama.com/2017/pdx.html#schedule)
+**Event**: [Monitorama PDX 2017](http://monitorama.com/2017/pdx.html#schedule)
 
 **Date**: May 24, 2017
 

@@ -2,6 +2,7 @@
 title: "Tracing Polyglot Systems: an OpenTracing Tutorial"
 date: 2018-10-01T20:35:00-05:00
 draft: false
+venue: Velocity NYC
 ---
 
 **Event**: [Velocity NYC](https://conferences.oreilly.com/velocity/vl-ny/public/schedule/detail/70000)

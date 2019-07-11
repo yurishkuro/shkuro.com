@@ -2,6 +2,7 @@
 title: "Would You Like Some Tracing With Your Monitoring"
 date: 2017-12-06T20:45:17-05:00
 draft: false
+venue: KubeCon/CloudNativeCon NA 2017
 ---
 
 **Event**: [KubeCon/CloudNativeCon NA 2017](https://kccncna17.sched.com/event/CU8f/would-you-like-some-tracing-with-your-monitoring-yuri-shkuro-uber-technologies)

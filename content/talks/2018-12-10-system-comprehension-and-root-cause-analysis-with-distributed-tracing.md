@@ -2,6 +2,7 @@
 title: "System Comprehension and Root Cause Analysis With Distributed Tracing"
 date: 2018-12-10T20:30:44-05:00
 draft: false
+venue: Observability Practitioners Summit @ KubeCon 2018
 ---
 
 **Event**: [Observability Practitioners Summit](https://opsummitna18.sched.com/) @ KubeCon/CloudNativeCon NA 2018.
