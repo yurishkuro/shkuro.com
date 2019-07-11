@@ -35,7 +35,7 @@ disqusShortname = "yourdiscussshortname"
     inverted = false
 
     # Custom CSS
-    custom_css = ["css/figures.css", "css/video.css"]
+    custom_css = ["css/figures.css", "css/video.css", "css/talks.css"]
 
 [[params.social]]
     name = "GitHub"

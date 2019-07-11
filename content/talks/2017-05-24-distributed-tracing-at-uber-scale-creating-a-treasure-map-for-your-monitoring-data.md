@@ -3,6 +3,8 @@ title: "Tracing at Uber Scale: Creating a Treasure Map for your Monitoring Data"
 date: 2017-05-24T21:04:28-05:00
 draft: false
 venue: Monitorama PDX 2017
+video: https://vimeo.com/221070602
+slides: https://speakerdeck.com/yurishkuro/would-you-like-some-tracing-with-your-monitoring
 ---
 
 **Event**: [Monitorama PDX 2017](http://monitorama.com/2017/pdx.html#schedule)

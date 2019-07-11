@@ -1,7 +1,6 @@
 ---
 title: "Conquering Microservices Complexity at Uber with Distributed Tracing"
 date: 2019-06-25
-publishDate: 2019-05-29
 draft: false
 venue: QCon New York
 ---

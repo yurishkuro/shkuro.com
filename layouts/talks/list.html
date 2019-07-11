@@ -1,0 +1,39 @@
+{{ define "title" }}
+  {{- if eq .Kind "taxonomy" -}}
+    {{- .Data.Singular | title -}}
+    {{- print ": " -}}
+  {{- end -}}
+
+  {{- .Title }} · {{ .Site.Title -}}
+{{ end }}
+{{ define "content" }}
+  <section class="container list">
+    <ul>
+      {{ range .Paginator.Pages }}
+      <li>
+        <div>
+            <span class="date">[{{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}]</span>
+            <a class="title" href="{{ .URL }}">{{ .Title }}</a>
+        </div>
+        <div>
+            <span class="date"></span>
+            <span class="event-name">{{ .Params.Venue }}</span>
+        </div>
+        {{ if (or ( isset .Params "video" ) ( isset .Params "slides" )) }}
+        <div>
+            <span class="date"></span>
+            {{ if .Params.Video }}
+                <span class="event-video">[<a href="{{ .Params.Video }}" target="_blank">video</a>]</span>
+            {{ end }}
+            {{ if .Params.Slides }}
+                <span class="event-slides">[<a href="{{ .Params.Slides }}" target="_blank">slides</a>]</span>
+            {{ end }}
+        </div>
+        {{ end }}
+        <br/>
+      </li>
+      {{ end }}
+    </ul>
+    {{ partial "pagination.html" . }}
+  </section>
+{{ end }}

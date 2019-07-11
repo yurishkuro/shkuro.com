@@ -1,9 +1,9 @@
 ---
 title: "Distributed Tracing at Uber and Facebook"
 date: 2019-06-06
-publishDate: 2019-05-29
 draft: false
 venue: Systems @ Scale
+video: https://atscaleconference.com/videos/systems-scale-2019-observability-infra-uber-and-facebook/
 ---
 
 **Event**: [Systems @ Scale](https://systemsatscale2019.splashthat.com/)

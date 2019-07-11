@@ -1,8 +1,9 @@
 ---
-title: "CNCF Webinar Series: Introducing Jaeger 1.0"
+title: "Introducing Jaeger 1.0"
 date: 2017-01-16T20:41:02-05:00
 draft: false
 venue: CNCF Webinar Series
+video: https://youtu.be/qT_1MI58tLk
 ---
 
 **Event**: [CNCF Webinar Series](https://www.cncf.io/event/cncf-webinar-series-introducing-jaeger-1-0/)
