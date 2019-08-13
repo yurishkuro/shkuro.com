@@ -12,7 +12,7 @@ video: https://youtu.be/qT_1MI58tLk
 
 **Speakers**: Yuri Shkuro
 
-**Video**: [YouTube](https://youtu.be/qT_1MI58tLk) (or below)
+**Video**: [YouTube]({{< param video >}}) (or below)
 
 Most of this webinar is a live demo of Jaeger functionality, as well as its architecture.
 

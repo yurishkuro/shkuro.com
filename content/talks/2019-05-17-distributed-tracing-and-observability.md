@@ -12,7 +12,7 @@ podcast: https://hub.packtpub.com/listen-to-uber-engineer-yuri-shkuro-discuss-di
 
 **Speakers**: Richard Gall, Stacy Matthews, Yuri Shkuro
 
-**Podcast**: https://hub.packtpub.com/listen-to-uber-engineer-yuri-shkuro-discuss-distributed-tracing-and-observability-podcast/
+**Podcast**: {{< param-url podcast >}}
 
 The episode covers:
 

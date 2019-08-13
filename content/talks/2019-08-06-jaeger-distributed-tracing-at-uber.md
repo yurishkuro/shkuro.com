@@ -12,7 +12,7 @@ podcast: https://softwareengineeringdaily.com/2019/08/06/jaeger-distributed-trac
 
 **Speakers**: Jeffrey Meyerson, Yuri Shkuro
 
-**Podcast**: https://softwareengineeringdaily.com/2019/08/06/jaeger-distributed-tracing-at-uber-with-yuri-shkuro/
+**Podcast**: {{< param-url podcast >}}
 
 In this podcast Jeff and I discuss the evolution of Uber architecture from monoliths to microservices,
 and the infrastructure support we had to build for that, including observability and distributed tracing with Jaeger.
