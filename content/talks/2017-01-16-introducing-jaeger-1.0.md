@@ -16,6 +16,4 @@ video: https://youtu.be/qT_1MI58tLk
 
 Most of this webinar is a live demo of Jaeger functionality, as well as its architecture.
 
-<div class="video-container">
-<iframe src="https://www.youtube.com/embed/qT_1MI58tLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{< youtube qT_1MI58tLk >}}

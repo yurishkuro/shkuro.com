@@ -19,6 +19,4 @@ slides: https://schd.ws/hosted_files/opsummitna18/03/KubeCon%20Observability%20S
 
 In this talk we discuss a data mining and visualization technique that allows Uber to gain operational insights and assist on-call engineers in root cause analysis by analyzing billions of traces we collect, not just a handful that power users of tracing happened to review.
 
-<div class="video-container">
-<iframe src="https://www.youtube.com/embed/T-0jsLv7flc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{< youtube T-0jsLv7flc >}}
