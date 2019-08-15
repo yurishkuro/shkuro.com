@@ -6,7 +6,7 @@ venue: Systems @ Scale
 video: https://atscaleconference.com/videos/systems-scale-2019-observability-infra-uber-and-facebook/
 ---
 
-**Event**: [Systems @ Scale](https://systemsatscale2019.splashthat.com/)
+**Event**: [Systems @ Scale](https://atscaleconference.com/events/systems-scale-2019/)
 
 **Date**: June 6, 2019
 
