@@ -3,7 +3,7 @@ publish = "public"
 command = "GIT_COMMIT_SHA=`git rev-parse --verify HEAD` GIT_COMMIT_SHA_SHORT=`git rev-parse --short HEAD` hugo --gc --minify"
 
 [context.production.environment]
-HUGO_VERSION = "0.53"
+HUGO_VERSION = "0.56"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
