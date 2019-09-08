@@ -1,6 +1,7 @@
 ---
 title: "Mastering Distributed Tracing"
 date: 2019-01-23T16:37:25-05:00
+images: ["https://shkuro.com/books/2019-mastering-distributed-tracing/cover-v2.png"]
 draft: false
 ---
 
