@@ -11,3 +11,7 @@ venue: API World 2019 / Microservices World
 **Date**: October 8, 2019
 
 **Speakers**: Yuri Shkuro
+
+OpenTelemetry is a new project at Cloud Native Computing Foundation formed as a merger of OpenTracing and OpenCensus projects. OpenTelemetry makes robust, portable telemetry a built-in feature of cloud-native software.
+
+This talk is an introduction to OpenTelemetry, the problems it solves, the technical design of the APIs and libraries, and the community process around it.

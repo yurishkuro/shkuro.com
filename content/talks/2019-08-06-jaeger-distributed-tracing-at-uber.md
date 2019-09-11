@@ -10,7 +10,7 @@ podcast: https://softwareengineeringdaily.com/2019/08/06/jaeger-distributed-trac
 
 **Date**: August 6, 2019
 
-**Speakers**: Jeffrey Meyerson, Yuri Shkuro
+**Speakers**: [Jeffrey Meyerson](https://twitter.com/the_prion), Yuri Shkuro
 
 **Podcast**: {{< param-url podcast >}}
 

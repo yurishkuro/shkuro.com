@@ -10,7 +10,7 @@ podcast: https://www.infoq.com/podcasts/tracing-distributed-systems-using-jaeger
 
 **Date**: August 28, 2019
 
-**Speakers**: Wesley Reisz, Yuri Shkuro
+**Speakers**: [Wesley Reisz](https://twitter.com/wesreisz), Yuri Shkuro
 
 **Podcast**: {{< param-url podcast >}}
 

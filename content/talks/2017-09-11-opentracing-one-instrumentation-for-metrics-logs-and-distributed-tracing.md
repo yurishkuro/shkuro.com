@@ -9,4 +9,4 @@ venue: Open Source Summit NA 2017
 
 **Date**: September 11, 2017
 
-**Speakers**: Yuri Shkuro (Uber) & Juraci Paixão Kröhling (Red Hat)
+**Speakers**: Yuri Shkuro (Uber) & [Juraci Paixão Kröhling (Red Hat)](https://twitter.com/jpkrohling)

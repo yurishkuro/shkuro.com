@@ -10,7 +10,7 @@ slides: https://cdn.oreillystatic.com/en/assets/1/event/275/Tracing%20polyglot%2
 
 **Date**: October 1, 2018
 
-**Speakers**: Yuri Shkuro, Prithvi Raj, Won Jun Jang
+**Speakers**: Yuri Shkuro, [Prithvi Raj](https://github.com/vprithvi), [Won Jun Jang](https://github.com/black-adder)
 
 **Slides**: [PDF]({{< param slides >}})
 

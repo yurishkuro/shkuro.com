@@ -11,7 +11,7 @@ slides: https://schd.ws/hosted_files/opsummitna18/03/KubeCon%20Observability%20S
 
 **Date**: December 10, 2018
 
-**Speakers**: Yuri Shkuro and Joe Farro
+**Speakers**: Yuri Shkuro and [Joe Farro](https://github.com/tiffon)
 
 **Video**: [YouTube]({{< param video >}}) (or below)
 
