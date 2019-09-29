@@ -44,6 +44,6 @@ Table of contents:
     * Chapter 13: Implementing tracing in large organizations
     * Chapter 14: Under the Hood of a Distributed Tracing System
 
-[amazon]: https://amzn.to/2xzZ7W7
+[amazon]: https://www.amazon.com/gp/product/1788628462/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=tracing-book-20&linkId=49245e16c6612c0fa4ed3972ba2fd651&language=en_US
 [packt]: https://www.packtpub.com/networking-and-servers/mastering-distributed-tracing
 
