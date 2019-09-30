@@ -6,7 +6,7 @@ draft: false
 venue: Systems @ Scale NYC
 ---
 
-**Event**: {{< param venue >}}
+**Event**: [{{< param venue >}}](https://atscaleconference.com/events/systems-scale-2/)
 
 **Date**: September 18, 2019
 
