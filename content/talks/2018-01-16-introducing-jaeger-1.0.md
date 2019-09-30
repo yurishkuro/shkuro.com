@@ -1,6 +1,6 @@
 ---
 title: "Introducing Jaeger 1.0"
-date: 2017-01-16T20:41:02-05:00
+date: 2018-01-16
 draft: false
 venue: CNCF Webinar Series
 video: https://youtu.be/qT_1MI58tLk
