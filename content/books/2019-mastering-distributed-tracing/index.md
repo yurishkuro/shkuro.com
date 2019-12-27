@@ -14,12 +14,26 @@ draft: false
 
 Available for purchase at [PacktPub.com][packt] and at [Amazon.com][amazon].
 
-This book is based on my 3+ years of experience with building, deploying, and operating [Jaeger](https://www.jaegertracing.io), an open-source distributed tracing platform at [Uber Technologies, Inc.](https://eng.uber.com/distributed-tracing/), and my involvement with the standardization efforts, such as the [OpenTracing](https://opentracing.io) project and the [W3C Distributed Tracing Working Group](https://www.w3.org/2018/distributed-tracing/). It is a practical guide to distributed tracing, offering end-to-end (get it?) coverage of the field. 
+This book is based on my 3+ years of experience with building, deploying, and operating [Jaeger](https://www.jaegertracing.io), an open-source distributed tracing platform at [Uber Technologies, Inc.](https://eng.uber.com/distributed-tracing/), and my involvement with the standardization efforts, such as the [CNCF OpenTracing](https://opentracing.io) project and the [W3C Distributed Tracing Working Group](https://www.w3.org/2018/distributed-tracing/). It is a practical guide to distributed tracing, offering end-to-end (get it?) coverage of the field.
+
+---------
+
+![4.5 stars](./stars4.5.png)  _By asoare on September 23, 2019_
+
+_I started reading this book as I felt unsatisfied with the free resources found online and it proved to be a very wise decision. The book is easy to follow, very informative and well structured. It provides the insights/tools/questions you should ask when deciding to implement distributed tracing._
+
+---------
+
+![5 stars](./stars5.png) _By carlossantana on June 7, 2019_
+
+_This is hands down the best book on distributing tracing for modern cloud native applications._
+
+---------
 
 When you read this book you will:
 
-  * Become familiar with the history and theoretical foundations of tracing; 
-  * Solve the data gathering problem through manual and automatic code instrumentation, with open standards like OpenTracing, W3C Trace Context, and OpenCensus; 
+  * Become familiar with the history and theoretical foundations of tracing;
+  * Solve the data gathering problem through manual and automatic code instrumentation, with open standards like OpenTracing, W3C Trace Context, and OpenCensus;
   * Consider the benefits and applications of a distributed tracing infrastructure for understanding and profiling complex systems;
   * Learn how to deploy and operate a distributed tracing platform at scale.
 
