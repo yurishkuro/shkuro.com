@@ -6,7 +6,7 @@ venue: Kubernetes Podcast
 podcast: https://kubernetespodcast.com/episode/097-jaeger/
 ---
 
-**Event**: {{< param venue >}}
+**Event**: [{{< param venue >}}](https://kubernetespodcast.com/)
 
 **Date**: March 31, 2020
 
