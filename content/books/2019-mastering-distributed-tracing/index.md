@@ -5,7 +5,7 @@ images: ["https://shkuro.com/books/2019-mastering-distributed-tracing/cover-v2.p
 draft: false
 ---
 
-{{% figure src="./cover-v2.png" class="floatright" %}}
+{{< figure src="./cover-v2.png" class="floatright" >}}
 
   * **Publisher**: Packt Publishing (February, 2019)
   * **Illustration by**: [Lev Polyakov](https://polyakovproductions.com/)
@@ -60,4 +60,3 @@ Table of contents:
 
 [amazon]: https://amzn.to/2nMeN6T
 [packt]: https://www.packtpub.com/networking-and-servers/mastering-distributed-tracing
-

@@ -4,7 +4,7 @@ date: 2007-12-21T16:37:25-05:00
 draft: false
 ---
 
-{{% figure src="./cover.jpg" class="floatright" %}}
+{{< figure src="./cover.jpg" class="floatright" >}}
 
 **Publisher**: Nova Science Publishers, Inc. (December 21, 2007)
 

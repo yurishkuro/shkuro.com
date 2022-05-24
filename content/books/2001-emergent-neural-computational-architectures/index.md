@@ -4,7 +4,7 @@ date: 2001-08-24T16:37:25-05:00
 draft: false
 ---
 
-{{% figure src="./cover.jpg" class="floatright" %}}
+{{< figure src="./cover.jpg" class="floatright" >}}
 
 ## Towards Neuroscience-Inspired Computing (Lecture Notes in Computer Science)
 
