@@ -58,11 +58,6 @@ disqusShortname = "yourdiscussshortname"
     weight = 5
     url = "https://medium.com/@yurishkuro"
 
-#[[menu.main]]
-#name = "About"
-#weight = 1
-#url = "/about/"
-
 [[menu.main]]
 name = "Blog"
 weight = 2
@@ -78,6 +73,5 @@ name = "Talks"
 weight = 5
 url = "/talks/"
 
-[security]
-  [security.funcs]
-    getenv = ['GIT_COMMIT_SHA']
+[security.funcs]
+getenv = ["GIT_COMMIT_SHA"]
