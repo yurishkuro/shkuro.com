@@ -8,7 +8,7 @@ video: https://youtu.be/OebhomcdJ4g
 
 **Event**: [{{< param venue >}}](https://www.meetup.com/opentelemetry-tlv/events/283318629/)
 
-**Date**: September 14, 2021
+**Date**: February 9, 2022
 
 **Speakers**: Yuri Shkuro, hosted by [Eran Grabiner](https://twitter.com/GrabinerEran)
 
