@@ -1,6 +1,7 @@
 # baseURL = "http://www.shkuro.com/"
 title = "Yuri Shkuro"
-googleAnalytics = "UA-38157931-4"
+googleAnalytics = "G-JKCPDDDWSF"
+#googleAnalytics = "UA-38157931-4"
 
 languageCode = "en-us"
 theme = "hugo-coder"
@@ -45,8 +46,13 @@ disqusShortname = "yourdiscussshortname"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter"
-    weight = 3
+    weight = 2
     url = "https://twitter.com/YuriShkuro/"
+[[params.social]]
+    name = "Mastodon"
+    icon = "fab fa-mastodon"
+    weight = 3
+    url = "https://fosstodon.org/@ysh"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
