@@ -75,6 +75,11 @@ weight = 3
 url = "/books/"
 
 [[menu.main]]
+name = "Papers"
+weight = 4
+url = "/papers/"
+
+[[menu.main]]
 name = "Talks"
 weight = 5
 url = "/talks/"
