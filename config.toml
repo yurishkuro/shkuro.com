@@ -49,19 +49,24 @@ disqusShortname = "yourdiscussshortname"
     weight = 2
     url = "https://twitter.com/YuriShkuro/"
 [[params.social]]
+    name = "Threads"
+    icon = "fas fa-at"
+    weight = 3
+    url = "https://www.threads.net/@yurishkuro"
+[[params.social]]
     name = "Mastodon"
     icon = "fab fa-mastodon"
-    weight = 3
+    weight = 4
     url = "https://fosstodon.org/@ysh"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
-    weight = 4
+    weight = 5
     url = "https://www.linkedin.com/in/yurishkuro/"
 [[params.social]]
     name = "Medium"
     icon = "fab fa-medium"
-    weight = 5
+    weight = 6
     url = "https://medium.com/@yurishkuro"
 
 [[menu.main]]
