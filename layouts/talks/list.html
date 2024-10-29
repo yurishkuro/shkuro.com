@@ -19,7 +19,7 @@
             <span class="date">&nbsp;</span>
             <span class="event-name">{{ .Params.Venue }}</span>
         </div>
-        {{ if (or ( isset .Params "video" ) ( isset .Params "slides" ) ( isset .Params "podcast" )) }}
+        {{ if (or ( isset .Params "video" ) ( isset .Params "slides" ) ( isset .Params "podcast" ) ( isset .Params "blog" )) }}
         <div>
             <span class="date">&nbsp;</span>
             {{ if .Params.Video }}
@@ -30,6 +30,9 @@
             {{ end }}
             {{ if .Params.Slides }}
                 <span class="event-slides">[<a href="{{ .Params.Slides }}" target="_blank">slides</a>]</span>
+            {{ end }}
+            {{ if .Params.Blog }}
+                <span class="event-slides">[<a href="{{ .Params.Blog }}" target="_blank">blog post</a>]</span>
             {{ end }}
         </div>
         {{ end }}
