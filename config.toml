@@ -16,7 +16,7 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Yuri Shkuro"
+    author = "Gerome-Ysmael"
     description = "Yuri Shkuro's personal website"
     keywords = "blog,developer,personal"
     avatarurl = "images/avatar.jpg"
